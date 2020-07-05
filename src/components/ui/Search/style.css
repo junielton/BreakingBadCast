@@ -1,0 +1,18 @@
+.search {
+	height: 200px;
+}
+
+.search form {
+	display: flex;
+}
+
+.form-control {
+	height: 50px;
+	margin: 0 auto;
+	width: 80%;
+	padding: 10px;
+	outline: none;
+}
+::placeholder {
+	color: #0e341e;
+}
